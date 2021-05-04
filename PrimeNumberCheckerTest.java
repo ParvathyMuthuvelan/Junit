@@ -41,7 +41,7 @@ public class PrimeNumberCheckerTest {
       });
    }
 
-   // This test will run 4 times since we have 5 parameters defined
+  
    @Test
    public void testPrimeNumberChecker() {
       System.out.println("Parameterized Number is : " + inputNumber);
